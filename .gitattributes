@@ -1,0 +1,10 @@
+ExcavatorV3.3TrackAnim.abc filter=lfs diff=lfs merge=lfs -text
+ExcavatorV3.3TrackAnim.abc.meta filter=lfs diff=lfs merge=lfs -text
+levelTutorialV1.2.fbx filter=lfs diff=lfs merge=lfs -text
+levelTutorialV1.2.fbx.meta filter=lfs diff=lfs merge=lfs -text
+67a4a12502388d2311ff4e235d490b89 filter=lfs diff=lfs merge=lfs -text
+Assets/Animation/ExcavatorV3.3TrackAnim.abc filter=lfs diff=lfs merge=lfs -text
+Assets/Animation/ExcavatorV3.3TrackAnim.abc.meta filter=lfs diff=lfs merge=lfs -text
+Assets/Prefabs/FBX/levelTutorialV1.2.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Prefabs/FBX/levelTutorialV1.2.fbx.meta filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/67/67a4a12502388d2311ff4e235d490b89 filter=lfs diff=lfs merge=lfs -text
