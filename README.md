@@ -1,1 +1,1 @@
-"# ExcavateIt" 
+This is a senior project done in 2022-2023. All the models and VR implementations were done by me. This project uses Unity XR Plugin but the built in functionalities were not enough. Source code includes manipulation of built-in libraries to satisfy specific requirements. Active script that has these data manipulations is called "ExcavatorMovement" under V3.3 folder FYI.
