@@ -1,0 +1,45 @@
+{
+  "name": "com.unity.xr.windowsmr",
+  "displayName": "Windows XR Plugin",
+  "version": "4.6.6",
+  "unity": "2020.3",
+  "unityRelease": "5f1",
+  "description": "Provides implementation and support for Unity XR SDK, allowing integration and use of Windows Mixed Reality devices.",
+  "keywords": [
+    "windows",
+    "ar",
+    "augmented",
+    "xr",
+    "reality",
+    "xreditorsubsystem",
+    "mixed",
+    "hololens"
+  ],
+  "dependencies": {
+    "com.unity.modules.subsystems": "1.0.0",
+    "com.unity.modules.vr": "1.0.0",
+    "com.unity.modules.xr": "1.0.0",
+    "com.unity.xr.management": "4.0.1",
+    "com.unity.xr.interactionsubsystems": "1.0.1",
+    "com.unity.xr.arsubsystems": "4.0.9"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/xr.sdk.windowsmr.git",
+    "type": "git",
+    "revision": "3ad47be26708c39bae689d2050b24272024ad4f5"
+  },
+  "samples": [
+    {
+      "displayName": "Remoting",
+      "description": "Basic sample showing how to setup and connect an application to a remote instance running on HoloLens v2 device.",
+      "path": "Samples~/Remoting"
+    }
+  ],
+  "_upm": {
+    "changelog": "* Fix crash when using Shared Depth Buffer option in the Windows Mixed Reality Settings.\n* Add error to build when using DX12 graphics api as this is not supported."
+  },
+  "upmCi": {
+    "footprint": "bed1e2638a9a3e375bf58b57f5f7be7b9212dd81"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.xr.windowsmr@4.6/manual/index.html"
+}
